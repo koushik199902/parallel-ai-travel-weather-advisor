@@ -144,12 +144,6 @@ The repository includes **offline pytest tests** and a GitHub Actions test workf
 
 **Not implemented:** persistent memory/checkpointing, arbitrary global cities, autonomous tool selection by the model, retry/backoff, model evaluation metrics, official weather alerts, production monitoring, cloud deployment, and performance benchmarks. Parallel scheduling may not make inference faster on a constrained local model.
 
-## 🎬 Interview walkthrough & contribution
-
-- [Architecture and interview speaking notes](docs/INTERVIEW_WALKTHROUGH.md)
-- [GitHub upload instructions (no terminal Git commands)](docs/GITHUB_UPLOAD_GUIDE.md)
-- [Source of the animated illustration](assets/workflow.gif)
-
 **Project status:** Local technical demonstration / portfolio proof of concept. Real-world results vary by date; the animation is an *architecture illustration*, not a live UI recording.
 
 ---
